@@ -38,3 +38,7 @@ source ~/gitstatus/gitstatus.prompt.zsh
 ```
 
 Edit `prompt.zsh` to correctly source the plugin.
+
+## Update log
+
+- 2024/4/20: Added an optional one-line style. Set `PROMPT_ONE_LINE` to enable.
